@@ -1,10 +1,10 @@
 import axios from "axios"
 const userAccount = axios.create({
-  baseURL: "https://TstEC2020110601-dev-14069.botics.co/rest-auth",
+  baseURL: "https://tstec2020110601-dev-14711.botics.co/rest-auth",
   headers: { Accept: "application/json", "Content-Type": "application/json" }
 })
 const tstECAPI = axios.create({
-  baseURL: "https://TstEC2020110601-dev-14069-prod.herokuapp.com/",
+  baseURL: "https://tstec2020110601-dev-14711-prod.herokuapp.com/",
   headers: { Accept: "application/json", "Content-Type": "application/json" }
 })
 function useraccount_post_registration_create(action) {
