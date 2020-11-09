@@ -70,7 +70,7 @@ class App extends Component {
                 }}
                     resizeMode="contain"
                     source={logo}/>
-                <Text style={styles.heading}>{"IwantSMART.com Rebate\nManagement Program"}</Text>
+                <Text style={styles.heading}>{"Crowdbotics.com Splash Screen"}</Text>
             </View>
         );
     }
