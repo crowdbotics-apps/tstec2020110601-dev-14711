@@ -1,6 +1,6 @@
 import React, {Component} from "react";
 import {StyleSheet, Image, ScrollView, TouchableOpacity, View} from "react-native";
-import {Text, Button} from "react-native-ui-kitten";
+//import {Text, Button} from "react-native-ui-kitten";
 import Icon from 'react-native-vector-icons/FontAwesome';
 
 import LogoIcon from "../../assets/images/backgroundLoginV1.png";
