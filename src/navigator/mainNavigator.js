@@ -17,7 +17,7 @@ const AppNavigator = {
 
     //@BlueprintNavigationInsertion
 BlankScreen114195: { screen: BlankScreen114195Navigator },
-BlankScreen314192: { screen: BlankScreen314192Navigator },
+//BlankScreen314192: { screen: BlankScreen314192Navigator },
   
     /** new navigators can be added here */
     SplashScreen: {
